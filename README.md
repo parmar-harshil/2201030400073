@@ -18,7 +18,7 @@ Check How Much Nutrition You Required for How Much Caalories Are Required !!
 
 
 ## 🔗 Check Project Live (Hosted On Github Pages)
-![Static Badge](https://img.shields.io/badge/live_preview-click_here-red?link=https%3A%2F%2Fparmar-harshil.github.io%2F2201030400073%2FAssignment_2%2Findex.html%2F)
+https://parmar-harshil.github.io/2201030400073/assignment_2/index.html
 
 
 
